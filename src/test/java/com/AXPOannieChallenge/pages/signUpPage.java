@@ -30,6 +30,5 @@ public class signUpPage {
 
     @FindBy(xpath = "//input[@id='username']")
     public static WebElement password;
-
-
+    
 }

@@ -1,4 +1,3 @@
-
 @RunAll
 Feature: AEMET API Signup
 

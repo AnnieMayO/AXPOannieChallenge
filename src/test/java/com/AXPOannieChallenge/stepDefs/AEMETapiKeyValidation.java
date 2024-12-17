@@ -27,6 +27,5 @@ public class AEMETapiKeyValidation {
         // Extract data from the response
         String responseBody = response.getBody().asString();
         System.out.println("Able to get MAD2 area successfully, therefore API KEY IS VALID" + responseBody);
-
     }
 }

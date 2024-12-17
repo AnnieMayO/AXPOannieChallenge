@@ -95,5 +95,4 @@ public class signUpStepDefs {
         signUpPage.nextButton.click();
         Thread.sleep(5000);
     }
-
 }
